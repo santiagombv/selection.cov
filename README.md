@@ -4,8 +4,8 @@ Una aplicación shiny para mostrar cómo los diferenciales de selección equival
 A shiny app to show how selection differential equals covariance between fitness and a trait.
 
 
-Para correr la aplicación copie y pegue en R
-To run the app, copy and paste in R.
+  Para correr la aplicación copie y pegue en R.  
+  To run the app, copy and paste in R.
 
 ```
 library(shiny)
